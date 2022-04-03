@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://images2.alphacoders.com/679/679586.jpg");
+  background-color: #cccccc;
+  /* background-image: url("paper.gif");
+      background-color: #cccccc; */
+}
+
+h1 {
+  color: aqua;
+}
+
+h2 {
+  /* color: orangered; */
+  background-color: yellow;
+  opacity: 0.5;
+}
+
+h3 {
+  color: red;
+  background-color: yellow;
+  opacity: 0.5;
+
+}
+
+a {
+  color: red;
+  text-shadow: 1px 0px;
+}
